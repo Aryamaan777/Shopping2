@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "978679469638",
+    "firebase_url": "https://shoppingnew-58d41.firebaseio.com",
+    "project_id": "shoppingnew-58d41",
+    "storage_bucket": "shoppingnew-58d41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978679469638:android:0a889d379e6bfe270fdc47",
+        "android_client_info": {
+          "package_name": "Aryamaan.Shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978679469638-jgn5b5qnc49baej76i967pg3c7r3dql7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Aryamaan.Shopping",
+            "certificate_hash": "099d6f1f1175251d05932082de03d9e4d18c6d36"
+          }
+        },
+        {
+          "client_id": "978679469638-78k0rago04d287ps4pu4vu5lfoe11lac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDqo2MigomQpDjdcRhhfZFOffy8YuF5qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978679469638-78k0rago04d287ps4pu4vu5lfoe11lac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
